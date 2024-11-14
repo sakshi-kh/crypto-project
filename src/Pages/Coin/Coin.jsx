@@ -13,7 +13,7 @@ const Coin = () => {
       method: 'GET',
       headers: {
         accept: 'application/json',
-        'x-cg-demo-api-key': 'CG-BW3W9EB6DhNrH8hGcxufHbum	'
+        'x-cg-demo-api-key': import.meta.env.VITE_API_KEY
       }
     };
     
