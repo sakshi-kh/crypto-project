@@ -4,7 +4,7 @@ import { Routes,Route } from "react-router-dom";
 import Home from "./Pages/Home/Home";
 import Coin from "./Pages/Coin/Coin";
 import Footer from "./Components/Footer/Footer";
-import.meta.env.VITE_API_KEY
+// import.meta.env.VITE_API_KEY
 
 const App = () => {
   return (
